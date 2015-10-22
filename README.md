@@ -12,8 +12,8 @@ The GUI uses Tkinter package and threading is used to make the UI responsive.
 
 Running
 -------
-python3 Dfs.py
+	python3 Dfs.py
 
 Dependencies
 ------------
-python3
+	python3
